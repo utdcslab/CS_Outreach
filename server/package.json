@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/utdcslab/CS_Outreach#readme",
   "dependencies": {
+    "body-parser": "^1.17.2",
     "express": "^4.15.4",
     "http": "0.0.0",
     "mongoose": "^4.11.8"
